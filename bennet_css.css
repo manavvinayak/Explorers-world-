@@ -1,0 +1,75 @@
+body{
+	background-color:skyblue;
+}
+
+.header{
+	position:absolute;
+	top:0;
+	background-color:#232a36;
+	color:white;
+	border-bottom:2px solid white;
+	width: 100%
+}
+
+#square{	
+	position:absolute;
+	top:10%;
+	left:25%;
+	right:25%;
+	height:85%;
+	width:50%;
+	background-color:#232a36;
+	border:5px solid black;
+}
+
+.infoTitle{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2%;
+	border: 2.4px solid black;
+	background-color:white;
+	Width: 95%;
+	font-size:1.5em;
+	font-weight:bold;
+}
+
+.info{
+	display:block;
+	overflow:scroll;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 5px;
+	border: 2.4px solid black;
+	background-color:white;
+	Width: 95%;
+	height:90%;
+	font-size:1.2em;
+}
+
+p{
+	padding:02%;
+}
+
+#footer{
+	position:absolute;
+	bottom:0;
+	right:36%;
+	background-color:white;
+	border: 2.5px solid black;
+	
+}
+
+.link{
+	color:black;
+	font-family:Avenir Book;	
+	float:left;
+	margin-left:2px;
+	margin-right:2px;
+;}
+.inbetween{
+	color:black;
+	float:left;
+	margin-left:2px;
+	margin-right:2px;
+}
